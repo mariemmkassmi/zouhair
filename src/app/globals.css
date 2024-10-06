@@ -25,3 +25,24 @@ body {
     text-wrap: balance;
   }
 }
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.7s forwards;
+}
+@import url('https://fonts.googleapis.com/css2?family=Purisa&display=swap');
+
+body {
+  font-family: 'Purisa', sans-serif;
+}
+
+.font-purisa {
+  font-family: 'Purisa', sans-serif; 
+}
