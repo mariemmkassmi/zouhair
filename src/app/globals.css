@@ -37,12 +37,12 @@ body {
 .animate-fade-in {
   animation: fade-in 0.7s forwards;
 }
-@import url('https://fonts.googleapis.com/css2?family=Purisa&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Helvetica &display=swap");
 
 body {
-  font-family: 'Purisa', sans-serif;
+  font-family: "Helvetica ", sans-serif;
 }
 
 .font-purisa {
-  font-family: 'Purisa', sans-serif; 
+  font-family: "Helvetica ", sans-serif;
 }
