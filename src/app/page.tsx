@@ -682,7 +682,7 @@ export default function Portfolio() {
         <div className="container mx-auto flex flex-col items-center space-y-6">
           <div className="flex space-x-6 text-white">
             <a
-              href="https://www.linkedin.com/in/zouhair-mkassmi/"
+              href="https://www.linkedin.com/in/zouhair-mkassmi-759746131/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-cyan-500 hover:text-cyan-300"
