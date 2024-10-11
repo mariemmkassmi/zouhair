@@ -650,7 +650,7 @@ export default function Portfolio() {
           <div className="mt-10 grid grid-cols-1 gap-8 lg:grid-cols-3 text-white text-lg">
             <div className="flex items-center">
               <PhoneIcon className="h-8 w-8 text-cyan-500" />
-              <span className="ml-4">+216 05301670943</span>
+              <span className="ml-4">+216531670943</span>
             </div>
             <div className="flex items-center">
               <EnvelopeIcon className="h-8 w-8 text-cyan-500" />
